@@ -278,6 +278,9 @@ footer{
 	.main-visual-text{
 		font-size: 18px;
 	}
+	.title-text br{
+		display: none;
+	}
 	.portfolio-inner,.feature-inner,.profile-inner,.contact-inner{
 		width:90%;
 		padding: 0 5%;
@@ -320,6 +323,9 @@ footer{
 	}
 	.myname-text{
 		padding-bottom: 20px;
+	}
+	.myname-text br{
+		display: none;
 	}
 	.contact-left,.contact-right{
 		float: none;
